@@ -1,0 +1,43 @@
+MIT License
+
+Copyright (c) 2024 Audio-Visual Speech Recognition Research Project
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+PRIVACY AND ETHICS DISCLAIMER:
+
+This software is provided for research and educational purposes only. Users
+are strictly prohibited from using this software for:
+
+1. Biometric identification or authentication systems
+2. Voice cloning or deepfake generation
+3. Surveillance or privacy-invasive applications
+4. Impersonation or fraud
+5. Any commercial applications involving voice cloning or speaker identification
+
+By using this software, you acknowledge and agree that:
+- This is a research demonstration only
+- You will use it only for legitimate research and educational purposes
+- You will comply with all applicable laws and ethical guidelines
+- You understand the potential risks and limitations of the technology
+- You will not use it for any prohibited purposes listed above
+
+The authors and contributors of this software disclaim any responsibility
+for misuse of this technology and strongly encourage responsible and ethical
+use of audio-visual speech recognition systems.
